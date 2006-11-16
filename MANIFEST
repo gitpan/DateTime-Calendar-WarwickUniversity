@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/01load.t
+t/02academic_week.t
+t/03term_week.t
+t/04term_and_week.t
+lib/DateTime/Calendar/WarwickUniversity.pm
+META.yml                                 Module meta-data (added by MakeMaker)
