@@ -38,7 +38,7 @@ use Carp;
 use DateTime::Event::WarwickUniversity;
 use base 'DateTime';
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head2 academic_week
 
@@ -123,9 +123,9 @@ L<DateTime>, L<DateTime::Event::WarwickUniversity>
 
 Tim Retout E<lt>tim@retout.co.ukE<gt>
 
-=head1 COPYRIGHT AND LICENSE
+=head1 COPYRIGHT
 
-Copyright (C) 2006 by Tim Retout
+Copyright (C) 2006, 2007 by Tim Retout
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,
